@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spinner_SpinnerChoiceFromJava</string>
+    <string name="spinner_prompt">Color Choices</string>
+</resources>
